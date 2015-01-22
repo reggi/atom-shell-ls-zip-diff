@@ -1,814 +1,814 @@
 total 0
-drwxr-xr-x@  3 thomas  staff  102 Jan 20 14:31 .
-drwx------+ 19 thomas  staff  646 Jan 22 10:21 ..
-drwxr-xr-x@  7 thomas  staff  238 Jan 20 14:31 Contents
+drwxr-xr-x   3 thomas  staff  102 Jan 22 10:21 .
+drwx------+ 18 thomas  staff  612 Jan 22 10:21 ..
+drwxr-xr-x   7 thomas  staff  238 Jan 22 10:19 Contents
 
 ./Contents:
 total 16
-drwxr-xr-x@  7 thomas  staff   238 Jan 20 14:31 .
-drwxr-xr-x@  3 thomas  staff   102 Jan 20 14:31 ..
-drwxr-xr-x@  9 thomas  staff   306 Jan 20 14:31 Frameworks
--rw-r--r--@  1 thomas  staff  1124 Jan 20 14:31 Info.plist
-drwxr-xr-x@  3 thomas  staff   102 Jan 20 14:31 MacOS
--rw-r--r--@  1 thomas  staff     8 Jan 20 14:31 PkgInfo
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 Resources
+drwxr-xr-x   7 thomas  staff   238 Jan 22 10:19 .
+drwxr-xr-x   3 thomas  staff   102 Jan 22 10:21 ..
+drwxr-xr-x   9 thomas  staff   306 Jan 22 10:19 Frameworks
+-rw-r--r--   1 thomas  staff  1124 Jan 22 10:19 Info.plist
+drwxr-xr-x   3 thomas  staff   102 Jan 22 10:19 MacOS
+-rw-r--r--   1 thomas  staff     8 Jan 22 10:19 PkgInfo
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 Resources
 
 ./Contents/Frameworks:
 total 0
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 .
-drwxr-xr-x@ 7 thomas  staff  238 Jan 20 14:31 ..
-drwxr-xr-x@ 7 thomas  staff  238 Jan 20 14:31 Atom Framework.framework
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 Atom Helper EH.app
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 Atom Helper NP.app
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 Atom Helper.app
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 Mantle.framework
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 ReactiveCocoa.framework
-drwxr-xr-x@ 7 thomas  staff  238 Apr 28  2014 Squirrel.framework
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 .
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 ..
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 Atom Framework.framework
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 Atom Helper EH.app
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 Atom Helper NP.app
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 Atom Helper.app
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 Mantle.framework
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 ReactiveCocoa.framework
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 Squirrel.framework
 
 ./Contents/Frameworks/Atom Framework.framework:
 total 32
-drwxr-xr-x@ 7 thomas  staff  238 Jan 20 14:31 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-lrwxr-xr-x@ 1 thomas  staff   31 Jan 20 16:51 Atom Framework -> Versions/Current/Atom Framework
-lrwxr-xr-x@ 1 thomas  staff   27 Jan 20 16:51 Frameworks -> Versions/Current/Frameworks
-lrwxr-xr-x@ 1 thomas  staff   26 Jan 20 16:51 Libraries -> Versions/Current/Libraries
-lrwxr-xr-x@ 1 thomas  staff   26 Jan 20 16:51 Resources -> Versions/Current/Resources
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 Versions
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+lrwxr-xr-x  1 thomas  staff  137 Jan 22 10:19 Atom Framework -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Atom Framework.framework/Versions/Current/Atom Framework
+lrwxr-xr-x  1 thomas  staff  133 Jan 22 10:19 Frameworks -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Atom Framework.framework/Versions/Current/Frameworks
+lrwxr-xr-x  1 thomas  staff  132 Jan 22 10:19 Libraries -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Atom Framework.framework/Versions/Current/Libraries
+lrwxr-xr-x  1 thomas  staff  132 Jan 22 10:19 Resources -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Atom Framework.framework/Versions/Current/Resources
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 Versions
 
 ./Contents/Frameworks/Atom Framework.framework/Versions:
 total 8
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 .
-drwxr-xr-x@ 7 thomas  staff  238 Jan 20 14:31 ..
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 A
-lrwxr-xr-x@ 1 thomas  staff    1 Jan 20 16:51 Current -> A
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 A
+lrwxr-xr-x  1 thomas  staff  116 Jan 22 10:19 Current -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Atom Framework.framework/Versions/A
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A:
 total 14584
-drwxr-xr-x@ 5 thomas  staff      170 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff      136 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  7463484 Jan 20 14:31 Atom Framework
-drwxr-xr-x@ 4 thomas  staff      136 Jan 20 14:31 Libraries
-drwxr-xr-x@ 8 thomas  staff      272 Jan 20 14:31 Resources
+drwxr-xr-x  5 thomas  staff      170 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff      136 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  7463484 Jan 22 10:19 Atom Framework
+drwxr-xr-x  4 thomas  staff      136 Jan 22 10:19 Libraries
+drwxr-xr-x  8 thomas  staff      272 Jan 22 10:19 Resources
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Libraries:
 total 148640
-drwxr-xr-x@ 4 thomas  staff       136 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff       170 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff   2908044 Jan 19 17:04 ffmpegsumo.so
--rw-r--r--@ 1 thomas  staff  73191920 Jan 19 17:04 libchromiumcontent.dylib
+drwxr-xr-x  4 thomas  staff       136 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff       170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   2908044 Jan 22 10:19 ffmpegsumo.so
+-rw-r--r--  1 thomas  staff  73191920 Jan 22 10:19 libchromiumcontent.dylib
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources:
 total 37584
-drwxr-xr-x@ 8 thomas  staff       272 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff       170 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff       742 Jan 20 14:31 Info.plist
--rwxr-xr-x@ 1 thomas  staff    121628 Jan 20 14:31 Inspector
--rw-r--r--@ 1 thomas  staff     26379 Jan 20 14:31 MainMenu.nib
--rw-r--r--@ 1 thomas  staff   8591022 Jan 20 14:31 content_shell.pak
-drwxr-xr-x@ 3 thomas  staff       102 Jan 20 14:31 crash_report_sender.app
--rw-r--r--@ 1 thomas  staff  10490576 Jan 20 14:31 icudtl.dat
+drwxr-xr-x  8 thomas  staff       272 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff       170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff       742 Jan 22 10:19 Info.plist
+-rw-r--r--  1 thomas  staff    121628 Jan 22 10:19 Inspector
+-rw-r--r--  1 thomas  staff     26379 Jan 22 10:19 MainMenu.nib
+-rw-r--r--  1 thomas  staff   8591022 Jan 22 10:19 content_shell.pak
+drwxr-xr-x  3 thomas  staff       102 Jan 22 10:19 crash_report_sender.app
+-rw-r--r--  1 thomas  staff  10490576 Jan 22 10:19 icudtl.dat
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources/crash_report_sender.app:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 8 thomas  staff  272 Jan 20 14:31 ..
-drwxr-xr-x@ 6 thomas  staff  204 Jan 20 14:31 Contents
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  8 thomas  staff  272 Jan 22 10:19 ..
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 Contents
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources/crash_report_sender.app/Contents:
 total 16
-drwxr-xr-x@ 6 thomas  staff   204 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  1231 Jan 20 14:31 Info.plist
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 MacOS
--rw-r--r--@ 1 thomas  staff     8 Jan 20 14:31 PkgInfo
-drwxr-xr-x@ 5 thomas  staff   170 Jan 20 14:31 Resources
+drwxr-xr-x  6 thomas  staff   204 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  1231 Jan 22 10:19 Info.plist
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 MacOS
+-rw-r--r--  1 thomas  staff     8 Jan 22 10:19 PkgInfo
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 Resources
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources/crash_report_sender.app/Contents/MacOS:
 total 184
-drwxr-xr-x@ 3 thomas  staff    102 Jan 20 14:31 .
-drwxr-xr-x@ 6 thomas  staff    204 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  92048 Jan 20 14:31 crash_report_sender
+drwxr-xr-x  3 thomas  staff    102 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff    204 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  92048 Jan 22 10:19 crash_report_sender
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources/crash_report_sender.app/Contents/Resources:
 total 368
-drwxr-xr-x@ 5 thomas  staff     170 Jan 20 14:31 .
-drwxr-xr-x@ 6 thomas  staff     204 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff   12668 Jan 20 14:31 Breakpad.nib
-drwxr-xr-x@ 3 thomas  staff     102 Jan 20 14:31 English.lproj
--rw-r--r--@ 1 thomas  staff  170816 Jan 20 14:31 crash_report_sender.icns
+drwxr-xr-x  5 thomas  staff     170 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff     204 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   12668 Jan 22 10:19 Breakpad.nib
+drwxr-xr-x  3 thomas  staff     102 Jan 22 10:19 English.lproj
+-rw-r--r--  1 thomas  staff  170816 Jan 22 10:19 crash_report_sender.icns
 
 ./Contents/Frameworks/Atom Framework.framework/Versions/A/Resources/crash_report_sender.app/Contents/Resources/English.lproj:
 total 8
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff   170 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  2428 Jan 20 14:31 Localizable.strings
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  2428 Jan 22 10:19 Localizable.strings
 
 ./Contents/Frameworks/Atom Helper EH.app:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 Contents
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 Contents
 
 ./Contents/Frameworks/Atom Helper EH.app/Contents:
 total 16
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  847 Jan 20 14:31 Info.plist
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 MacOS
--rw-r--r--@ 1 thomas  staff    8 Jan 20 14:31 PkgInfo
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  847 Jan 22 10:19 Info.plist
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 MacOS
+-rw-r--r--  1 thomas  staff    8 Jan 22 10:19 PkgInfo
 
 ./Contents/Frameworks/Atom Helper EH.app/Contents/MacOS:
 total 24
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff   170 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  9080 Jan 20 14:31 Atom Helper EH
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  9080 Jan 22 10:19 Atom Helper EH
 
 ./Contents/Frameworks/Atom Helper NP.app:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 Contents
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 Contents
 
 ./Contents/Frameworks/Atom Helper NP.app/Contents:
 total 16
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  847 Jan 20 14:31 Info.plist
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 MacOS
--rw-r--r--@ 1 thomas  staff    8 Jan 20 14:31 PkgInfo
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  847 Jan 22 10:19 Info.plist
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 MacOS
+-rw-r--r--  1 thomas  staff    8 Jan 22 10:19 PkgInfo
 
 ./Contents/Frameworks/Atom Helper NP.app/Contents/MacOS:
 total 24
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff   170 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  9080 Jan 20 14:31 Atom Helper NP
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  9080 Jan 22 10:19 Atom Helper NP
 
 ./Contents/Frameworks/Atom Helper.app:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 Contents
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 Contents
 
 ./Contents/Frameworks/Atom Helper.app/Contents:
 total 16
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  712 Jan 20 14:31 Info.plist
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 MacOS
--rw-r--r--@ 1 thomas  staff    8 Jan 20 14:31 PkgInfo
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  712 Jan 22 10:19 Info.plist
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 MacOS
+-rw-r--r--  1 thomas  staff    8 Jan 22 10:19 PkgInfo
 
 ./Contents/Frameworks/Atom Helper.app/Contents/MacOS:
 total 24
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff   170 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  9080 Jan 20 14:31 Atom Helper
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  9080 Jan 22 10:19 Atom Helper
 
 ./Contents/Frameworks/Mantle.framework:
 total 24
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-lrwxr-xr-x@ 1 thomas  staff   24 Jan 20 16:51 Headers -> Versions/Current/Headers
-lrwxr-xr-x@ 1 thomas  staff   23 Jan 20 16:51 Mantle -> Versions/Current/Mantle
-lrwxr-xr-x@ 1 thomas  staff   26 Jan 20 16:51 Resources -> Versions/Current/Resources
-drwxr-xr-x@ 4 thomas  staff  136 Apr 28  2014 Versions
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+lrwxr-xr-x  1 thomas  staff  122 Jan 22 10:19 Headers -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Mantle.framework/Versions/Current/Headers
+lrwxr-xr-x  1 thomas  staff  121 Jan 22 10:19 Mantle -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Mantle.framework/Versions/Current/Mantle
+lrwxr-xr-x  1 thomas  staff  124 Jan 22 10:19 Resources -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Mantle.framework/Versions/Current/Resources
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 Versions
 
 ./Contents/Frameworks/Mantle.framework/Versions:
 total 8
-drwxr-xr-x@ 4 thomas  staff  136 Apr 28  2014 .
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 ..
-drwxr-xr-x@ 5 thomas  staff  170 Apr 28  2014 A
-lrwxr-xr-x@ 1 thomas  staff    1 Jan 20 16:51 Current -> A
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 A
+lrwxr-xr-x  1 thomas  staff  108 Jan 22 10:19 Current -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Mantle.framework/Versions/A
 
 ./Contents/Frameworks/Mantle.framework/Versions/A:
 total 384
-drwxr-xr-x@  5 thomas  staff     170 Apr 28  2014 .
-drwxr-xr-x@  4 thomas  staff     136 Apr 28  2014 ..
-drwxr-xr-x@ 13 thomas  staff     442 Apr 28  2014 Headers
--rwxr-xr-x@  1 thomas  staff  196440 Apr 28  2014 Mantle
-drwxr-xr-x@  3 thomas  staff     102 Apr 28  2014 Resources
+drwxr-xr-x   5 thomas  staff     170 Jan 22 10:19 .
+drwxr-xr-x   4 thomas  staff     136 Jan 22 10:19 ..
+drwxr-xr-x  13 thomas  staff     442 Jan 22 10:19 Headers
+-rw-r--r--   1 thomas  staff  196440 Jan 22 10:19 Mantle
+drwxr-xr-x   3 thomas  staff     102 Jan 22 10:19 Resources
 
 ./Contents/Frameworks/Mantle.framework/Versions/A/Headers:
 total 120
-drwxr-xr-x@ 13 thomas  staff   442 Apr 28  2014 .
-drwxr-xr-x@  5 thomas  staff   170 Apr 28  2014 ..
--rw-r--r--@  1 thomas  staff  5790 Apr 28  2014 MTLJSONAdapter.h
--rw-r--r--@  1 thomas  staff  7650 Apr 28  2014 MTLManagedObjectAdapter.h
--rw-r--r--@  1 thomas  staff  5521 Apr 28  2014 MTLModel+NSCoding.h
--rw-r--r--@  1 thomas  staff  5383 Apr 28  2014 MTLModel.h
--rw-r--r--@  1 thomas  staff   991 Apr 28  2014 MTLValueTransformer.h
--rw-r--r--@  1 thomas  staff   610 Apr 28  2014 Mantle.h
--rw-r--r--@  1 thomas  staff   873 Apr 28  2014 NSArray+MTLManipulationAdditions.h
--rw-r--r--@  1 thomas  staff   807 Apr 28  2014 NSDictionary+MTLManipulationAdditions.h
--rw-r--r--@  1 thomas  staff   406 Apr 28  2014 NSObject+MTLComparisonAdditions.h
--rw-r--r--@  1 thomas  staff   553 Apr 28  2014 NSValueTransformer+MTLInversionAdditions.h
--rw-r--r--@  1 thomas  staff  3066 Apr 28  2014 NSValueTransformer+MTLPredefinedTransformerAdditions.h
+drwxr-xr-x  13 thomas  staff   442 Jan 22 10:19 .
+drwxr-xr-x   5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--   1 thomas  staff  5790 Jan 22 10:19 MTLJSONAdapter.h
+-rw-r--r--   1 thomas  staff  7650 Jan 22 10:19 MTLManagedObjectAdapter.h
+-rw-r--r--   1 thomas  staff  5521 Jan 22 10:19 MTLModel+NSCoding.h
+-rw-r--r--   1 thomas  staff  5383 Jan 22 10:19 MTLModel.h
+-rw-r--r--   1 thomas  staff   991 Jan 22 10:19 MTLValueTransformer.h
+-rw-r--r--   1 thomas  staff   610 Jan 22 10:19 Mantle.h
+-rw-r--r--   1 thomas  staff   873 Jan 22 10:19 NSArray+MTLManipulationAdditions.h
+-rw-r--r--   1 thomas  staff   807 Jan 22 10:19 NSDictionary+MTLManipulationAdditions.h
+-rw-r--r--   1 thomas  staff   406 Jan 22 10:19 NSObject+MTLComparisonAdditions.h
+-rw-r--r--   1 thomas  staff   553 Jan 22 10:19 NSValueTransformer+MTLInversionAdditions.h
+-rw-r--r--   1 thomas  staff  3066 Jan 22 10:19 NSValueTransformer+MTLPredefinedTransformerAdditions.h
 
 ./Contents/Frameworks/Mantle.framework/Versions/A/Resources:
 total 8
-drwxr-xr-x@ 3 thomas  staff   102 Apr 28  2014 .
-drwxr-xr-x@ 5 thomas  staff   170 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff  1236 Apr 28  2014 Info.plist
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  1236 Jan 22 10:19 Info.plist
 
 ./Contents/Frameworks/ReactiveCocoa.framework:
 total 24
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 .
-drwxr-xr-x@ 9 thomas  staff  306 Jan 20 14:31 ..
-lrwxr-xr-x@ 1 thomas  staff   24 Jan 20 16:51 Headers -> Versions/Current/Headers
-lrwxr-xr-x@ 1 thomas  staff   30 Jan 20 16:51 ReactiveCocoa -> Versions/Current/ReactiveCocoa
-lrwxr-xr-x@ 1 thomas  staff   26 Jan 20 16:51 Resources -> Versions/Current/Resources
-drwxr-xr-x@ 4 thomas  staff  136 Apr 28  2014 Versions
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff  306 Jan 22 10:19 ..
+lrwxr-xr-x  1 thomas  staff  129 Jan 22 10:19 Headers -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current/Headers
+lrwxr-xr-x  1 thomas  staff  135 Jan 22 10:19 ReactiveCocoa -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current/ReactiveCocoa
+lrwxr-xr-x  1 thomas  staff  131 Jan 22 10:19 Resources -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current/Resources
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 Versions
 
 ./Contents/Frameworks/ReactiveCocoa.framework/Versions:
 total 8
-drwxr-xr-x@ 4 thomas  staff  136 Apr 28  2014 .
-drwxr-xr-x@ 6 thomas  staff  204 Apr 28  2014 ..
-drwxr-xr-x@ 5 thomas  staff  170 Apr 28  2014 A
-lrwxr-xr-x@ 1 thomas  staff    1 Jan 20 16:51 Current -> A
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 ..
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 A
+lrwxr-xr-x  1 thomas  staff  115 Jan 22 10:19 Current -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A
 
 ./Contents/Frameworks/ReactiveCocoa.framework/Versions/A:
 total 2144
-drwxr-xr-x@  5 thomas  staff      170 Apr 28  2014 .
-drwxr-xr-x@  4 thomas  staff      136 Apr 28  2014 ..
-drwxr-xr-x@ 54 thomas  staff     1836 Apr 28  2014 Headers
--rwxr-xr-x@  1 thomas  staff  1095444 Apr 28  2014 ReactiveCocoa
-drwxr-xr-x@  3 thomas  staff      102 Apr 28  2014 Resources
+drwxr-xr-x   5 thomas  staff      170 Jan 22 10:19 .
+drwxr-xr-x   4 thomas  staff      136 Jan 22 10:19 ..
+drwxr-xr-x  54 thomas  staff     1836 Jan 22 10:19 Headers
+-rw-r--r--   1 thomas  staff  1095444 Jan 22 10:19 ReactiveCocoa
+drwxr-xr-x   3 thomas  staff      102 Jan 22 10:19 Resources
 
 ./Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers:
 total 608
-drwxr-xr-x@ 54 thomas  staff   1836 Apr 28  2014 .
-drwxr-xr-x@  5 thomas  staff    170 Apr 28  2014 ..
--rw-r--r--@  1 thomas  staff   2388 Apr 28  2014 EXTKeyPathCoding.h
--rw-r--r--@  1 thomas  staff   3567 Apr 28  2014 EXTScope.h
--rw-r--r--@  1 thomas  staff    486 Apr 28  2014 NSArray+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    560 Apr 28  2014 NSControl+RACCommandSupport.h
--rw-r--r--@  1 thomas  staff    568 Apr 28  2014 NSControl+RACTextSignalSupport.h
--rw-r--r--@  1 thomas  staff    536 Apr 28  2014 NSData+RACSupport.h
--rw-r--r--@  1 thomas  staff   1046 Apr 28  2014 NSDictionary+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    479 Apr 28  2014 NSEnumerator+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    384 Apr 28  2014 NSFileHandle+RACSupport.h
--rw-r--r--@  1 thomas  staff    526 Apr 28  2014 NSIndexSet+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    419 Apr 28  2014 NSNotificationCenter+RACSupport.h
--rw-r--r--@  1 thomas  staff   1726 Apr 28  2014 NSObject+RACAppKitBindings.h
--rw-r--r--@  1 thomas  staff   1022 Apr 28  2014 NSObject+RACDeallocating.h
--rw-r--r--@  1 thomas  staff   2379 Apr 28  2014 NSObject+RACLifting.h
--rw-r--r--@  1 thomas  staff   5016 Apr 28  2014 NSObject+RACPropertySubscribing.h
--rw-r--r--@  1 thomas  staff   3596 Apr 28  2014 NSObject+RACSelectorSignal.h
--rw-r--r--@  1 thomas  staff    496 Apr 28  2014 NSOrderedSet+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    482 Apr 28  2014 NSSet+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    547 Apr 28  2014 NSString+RACSequenceAdditions.h
--rw-r--r--@  1 thomas  staff    608 Apr 28  2014 NSString+RACSupport.h
--rw-r--r--@  1 thomas  staff    400 Apr 28  2014 NSText+RACSignalSupport.h
--rw-r--r--@  1 thomas  staff    730 Apr 28  2014 NSURLConnection+RACSupport.h
--rw-r--r--@  1 thomas  staff    817 Apr 28  2014 NSUserDefaults+RACSupport.h
--rw-r--r--@  1 thomas  staff   2851 Apr 28  2014 RACBacktrace.h
--rw-r--r--@  1 thomas  staff    518 Apr 28  2014 RACBehaviorSubject.h
--rw-r--r--@  1 thomas  staff   2728 Apr 28  2014 RACChannel.h
--rw-r--r--@  1 thomas  staff   5202 Apr 28  2014 RACCommand.h
--rw-r--r--@  1 thomas  staff   1695 Apr 28  2014 RACCompoundDisposable.h
--rw-r--r--@  1 thomas  staff    942 Apr 28  2014 RACDisposable.h
--rw-r--r--@  1 thomas  staff   1609 Apr 28  2014 RACEvent.h
--rw-r--r--@  1 thomas  staff    428 Apr 28  2014 RACGroupedSignal.h
--rw-r--r--@  1 thomas  staff   4237 Apr 28  2014 RACKVOChannel.h
--rw-r--r--@  1 thomas  staff   1732 Apr 28  2014 RACMulticastConnection.h
--rw-r--r--@  1 thomas  staff   1628 Apr 28  2014 RACQueueScheduler+Subclass.h
--rw-r--r--@  1 thomas  staff    521 Apr 28  2014 RACQueueScheduler.h
--rw-r--r--@  1 thomas  staff    657 Apr 28  2014 RACReplaySubject.h
--rw-r--r--@  1 thomas  staff   6786 Apr 28  2014 RACScheduler.h
--rw-r--r--@  1 thomas  staff    487 Apr 28  2014 RACScopedDisposable.h
--rw-r--r--@  1 thomas  staff   6339 Apr 28  2014 RACSequence.h
--rw-r--r--@  1 thomas  staff   1651 Apr 28  2014 RACSerialDisposable.h
--rw-r--r--@  1 thomas  staff  28508 Apr 28  2014 RACSignal+Operations.h
--rw-r--r--@  1 thomas  staff   9669 Apr 28  2014 RACSignal.h
--rw-r--r--@  1 thomas  staff  12670 Apr 28  2014 RACStream.h
--rw-r--r--@  1 thomas  staff    548 Apr 28  2014 RACSubject.h
--rw-r--r--@  1 thomas  staff   1665 Apr 28  2014 RACSubscriber.h
--rw-r--r--@  1 thomas  staff   2035 Apr 28  2014 RACSubscriptingAssignmentTrampoline.h
--rw-r--r--@  1 thomas  staff    706 Apr 28  2014 RACTargetQueueScheduler.h
--rw-r--r--@  1 thomas  staff   1300 Apr 28  2014 RACTestScheduler.h
--rw-r--r--@  1 thomas  staff   5579 Apr 28  2014 RACTuple.h
--rw-r--r--@  1 thomas  staff    391 Apr 28  2014 RACUnit.h
--rw-r--r--@  1 thomas  staff   2437 Apr 28  2014 ReactiveCocoa.h
--rw-r--r--@  1 thomas  staff  30543 Apr 28  2014 metamacros.h
+drwxr-xr-x  54 thomas  staff   1836 Jan 22 10:19 .
+drwxr-xr-x   5 thomas  staff    170 Jan 22 10:19 ..
+-rw-r--r--   1 thomas  staff   2388 Jan 22 10:19 EXTKeyPathCoding.h
+-rw-r--r--   1 thomas  staff   3567 Jan 22 10:19 EXTScope.h
+-rw-r--r--   1 thomas  staff    486 Jan 22 10:19 NSArray+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    560 Jan 22 10:19 NSControl+RACCommandSupport.h
+-rw-r--r--   1 thomas  staff    568 Jan 22 10:19 NSControl+RACTextSignalSupport.h
+-rw-r--r--   1 thomas  staff    536 Jan 22 10:19 NSData+RACSupport.h
+-rw-r--r--   1 thomas  staff   1046 Jan 22 10:19 NSDictionary+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    479 Jan 22 10:19 NSEnumerator+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    384 Jan 22 10:19 NSFileHandle+RACSupport.h
+-rw-r--r--   1 thomas  staff    526 Jan 22 10:19 NSIndexSet+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    419 Jan 22 10:19 NSNotificationCenter+RACSupport.h
+-rw-r--r--   1 thomas  staff   1726 Jan 22 10:19 NSObject+RACAppKitBindings.h
+-rw-r--r--   1 thomas  staff   1022 Jan 22 10:19 NSObject+RACDeallocating.h
+-rw-r--r--   1 thomas  staff   2379 Jan 22 10:19 NSObject+RACLifting.h
+-rw-r--r--   1 thomas  staff   5016 Jan 22 10:19 NSObject+RACPropertySubscribing.h
+-rw-r--r--   1 thomas  staff   3596 Jan 22 10:19 NSObject+RACSelectorSignal.h
+-rw-r--r--   1 thomas  staff    496 Jan 22 10:19 NSOrderedSet+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    482 Jan 22 10:19 NSSet+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    547 Jan 22 10:19 NSString+RACSequenceAdditions.h
+-rw-r--r--   1 thomas  staff    608 Jan 22 10:19 NSString+RACSupport.h
+-rw-r--r--   1 thomas  staff    400 Jan 22 10:19 NSText+RACSignalSupport.h
+-rw-r--r--   1 thomas  staff    730 Jan 22 10:19 NSURLConnection+RACSupport.h
+-rw-r--r--   1 thomas  staff    817 Jan 22 10:19 NSUserDefaults+RACSupport.h
+-rw-r--r--   1 thomas  staff   2851 Jan 22 10:19 RACBacktrace.h
+-rw-r--r--   1 thomas  staff    518 Jan 22 10:19 RACBehaviorSubject.h
+-rw-r--r--   1 thomas  staff   2728 Jan 22 10:19 RACChannel.h
+-rw-r--r--   1 thomas  staff   5202 Jan 22 10:19 RACCommand.h
+-rw-r--r--   1 thomas  staff   1695 Jan 22 10:19 RACCompoundDisposable.h
+-rw-r--r--   1 thomas  staff    942 Jan 22 10:19 RACDisposable.h
+-rw-r--r--   1 thomas  staff   1609 Jan 22 10:19 RACEvent.h
+-rw-r--r--   1 thomas  staff    428 Jan 22 10:19 RACGroupedSignal.h
+-rw-r--r--   1 thomas  staff   4237 Jan 22 10:19 RACKVOChannel.h
+-rw-r--r--   1 thomas  staff   1732 Jan 22 10:19 RACMulticastConnection.h
+-rw-r--r--   1 thomas  staff   1628 Jan 22 10:19 RACQueueScheduler+Subclass.h
+-rw-r--r--   1 thomas  staff    521 Jan 22 10:19 RACQueueScheduler.h
+-rw-r--r--   1 thomas  staff    657 Jan 22 10:19 RACReplaySubject.h
+-rw-r--r--   1 thomas  staff   6786 Jan 22 10:19 RACScheduler.h
+-rw-r--r--   1 thomas  staff    487 Jan 22 10:19 RACScopedDisposable.h
+-rw-r--r--   1 thomas  staff   6339 Jan 22 10:19 RACSequence.h
+-rw-r--r--   1 thomas  staff   1651 Jan 22 10:19 RACSerialDisposable.h
+-rw-r--r--   1 thomas  staff  28508 Jan 22 10:19 RACSignal+Operations.h
+-rw-r--r--   1 thomas  staff   9669 Jan 22 10:19 RACSignal.h
+-rw-r--r--   1 thomas  staff  12670 Jan 22 10:19 RACStream.h
+-rw-r--r--   1 thomas  staff    548 Jan 22 10:19 RACSubject.h
+-rw-r--r--   1 thomas  staff   1665 Jan 22 10:19 RACSubscriber.h
+-rw-r--r--   1 thomas  staff   2035 Jan 22 10:19 RACSubscriptingAssignmentTrampoline.h
+-rw-r--r--   1 thomas  staff    706 Jan 22 10:19 RACTargetQueueScheduler.h
+-rw-r--r--   1 thomas  staff   1300 Jan 22 10:19 RACTestScheduler.h
+-rw-r--r--   1 thomas  staff   5579 Jan 22 10:19 RACTuple.h
+-rw-r--r--   1 thomas  staff    391 Jan 22 10:19 RACUnit.h
+-rw-r--r--   1 thomas  staff   2437 Jan 22 10:19 ReactiveCocoa.h
+-rw-r--r--   1 thomas  staff  30543 Jan 22 10:19 metamacros.h
 
 ./Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Resources:
 total 8
-drwxr-xr-x@ 3 thomas  staff   102 Apr 28  2014 .
-drwxr-xr-x@ 5 thomas  staff   170 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff  1354 Apr 28  2014 Info.plist
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  1354 Jan 22 10:19 Info.plist
 
 ./Contents/Frameworks/Squirrel.framework:
 total 40
-drwxr-xr-x@ 7 thomas  staff   238 Apr 28  2014 .
-drwxr-xr-x@ 9 thomas  staff   306 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  6148 Apr 28  2014 .DS_Store
-lrwxr-xr-x@ 1 thomas  staff    24 Jan 20 16:51 Headers -> Versions/Current/Headers
-lrwxr-xr-x@ 1 thomas  staff    26 Jan 20 16:51 Resources -> Versions/Current/Resources
-lrwxr-xr-x@ 1 thomas  staff    25 Jan 20 16:51 Squirrel -> Versions/Current/Squirrel
-drwxr-xr-x@ 5 thomas  staff   170 Apr 28  2014 Versions
+drwxr-xr-x  7 thomas  staff   238 Jan 22 10:19 .
+drwxr-xr-x  9 thomas  staff   306 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  6148 Jan 22 10:19 .DS_Store
+lrwxr-xr-x  1 thomas  staff   124 Jan 22 10:19 Headers -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Squirrel.framework/Versions/Current/Headers
+lrwxr-xr-x  1 thomas  staff   126 Jan 22 10:19 Resources -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Squirrel.framework/Versions/Current/Resources
+lrwxr-xr-x  1 thomas  staff   125 Jan 22 10:19 Squirrel -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Squirrel.framework/Versions/Current/Squirrel
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 Versions
 
 ./Contents/Frameworks/Squirrel.framework/Versions:
 total 24
-drwxr-xr-x@ 5 thomas  staff   170 Apr 28  2014 .
-drwxr-xr-x@ 7 thomas  staff   238 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff  6148 Apr 28  2014 .DS_Store
-drwxr-xr-x@ 6 thomas  staff   204 Apr 28  2014 A
-lrwxr-xr-x@ 1 thomas  staff     1 Jan 20 16:51 Current -> A
+drwxr-xr-x  5 thomas  staff   170 Jan 22 10:19 .
+drwxr-xr-x  7 thomas  staff   238 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  6148 Jan 22 10:19 .DS_Store
+drwxr-xr-x  6 thomas  staff   204 Jan 22 10:19 A
+lrwxr-xr-x  1 thomas  staff   110 Jan 22 10:19 Current -> /Users/thomas/Desktop/wallpaper/wallpaper-app/build/Atom.app/Contents/Frameworks/Squirrel.framework/Versions/A
 
 ./Contents/Frameworks/Squirrel.framework/Versions/A:
 total 488
-drwxr-xr-x@ 6 thomas  staff     204 Apr 28  2014 .
-drwxr-xr-x@ 5 thomas  staff     170 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff    6148 Apr 28  2014 .DS_Store
-drwxr-xr-x@ 8 thomas  staff     272 Apr 28  2014 Headers
-drwxr-xr-x@ 5 thomas  staff     170 Apr 28  2014 Resources
--rwxr-xr-x@ 1 thomas  staff  238876 Apr 28  2014 Squirrel
+drwxr-xr-x  6 thomas  staff     204 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff     170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff    6148 Jan 22 10:19 .DS_Store
+drwxr-xr-x  8 thomas  staff     272 Jan 22 10:19 Headers
+drwxr-xr-x  5 thomas  staff     170 Jan 22 10:19 Resources
+-rw-r--r--  1 thomas  staff  238876 Jan 22 10:19 Squirrel
 
 ./Contents/Frameworks/Squirrel.framework/Versions/A/Headers:
 total 56
-drwxr-xr-x@ 8 thomas  staff   272 Apr 28  2014 .
-drwxr-xr-x@ 6 thomas  staff   204 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff   439 Apr 28  2014 NSBundle+SQRLVersionExtensions.h
--rw-r--r--@ 1 thomas  staff   424 Apr 28  2014 NSProcessInfo+SQRLVersionExtensions.h
--rw-r--r--@ 1 thomas  staff   963 Apr 28  2014 SQRLDownloadedUpdate.h
--rw-r--r--@ 1 thomas  staff   972 Apr 28  2014 SQRLUpdate.h
--rw-r--r--@ 1 thomas  staff  5331 Apr 28  2014 SQRLUpdater.h
--rw-r--r--@ 1 thomas  staff   357 Apr 28  2014 Squirrel.h
+drwxr-xr-x  8 thomas  staff   272 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff   204 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   439 Jan 22 10:19 NSBundle+SQRLVersionExtensions.h
+-rw-r--r--  1 thomas  staff   424 Jan 22 10:19 NSProcessInfo+SQRLVersionExtensions.h
+-rw-r--r--  1 thomas  staff   963 Jan 22 10:19 SQRLDownloadedUpdate.h
+-rw-r--r--  1 thomas  staff   972 Jan 22 10:19 SQRLUpdate.h
+-rw-r--r--  1 thomas  staff  5331 Jan 22 10:19 SQRLUpdater.h
+-rw-r--r--  1 thomas  staff   357 Jan 22 10:19 Squirrel.h
 
 ./Contents/Frameworks/Squirrel.framework/Versions/A/Resources:
 total 2832
-drwxr-xr-x@ 5 thomas  staff      170 Apr 28  2014 .
-drwxr-xr-x@ 6 thomas  staff      204 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff     1242 Apr 28  2014 Info.plist
--rwxr-xr-x@ 1 thomas  staff  1444528 Apr 28  2014 ShipIt
-drwxr-xr-x@ 3 thomas  staff      102 Apr 28  2014 en.lproj
+drwxr-xr-x  5 thomas  staff      170 Jan 22 10:19 .
+drwxr-xr-x  6 thomas  staff      204 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff     1242 Jan 22 10:19 Info.plist
+-rw-r--r--  1 thomas  staff  1444528 Jan 22 10:19 ShipIt
+drwxr-xr-x  3 thomas  staff      102 Jan 22 10:19 en.lproj
 
 ./Contents/Frameworks/Squirrel.framework/Versions/A/Resources/en.lproj:
 total 8
-drwxr-xr-x@ 3 thomas  staff  102 Apr 28  2014 .
-drwxr-xr-x@ 5 thomas  staff  170 Apr 28  2014 ..
--rw-r--r--@ 1 thomas  staff   92 Apr 28  2014 InfoPlist.strings
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   92 Jan 22 10:19 InfoPlist.strings
 
 ./Contents/MacOS:
 total 24
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 .
-drwxr-xr-x@ 7 thomas  staff   238 Jan 20 14:31 ..
--rwxr-xr-x@ 1 thomas  staff  9072 Jan 20 14:31 Atom
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 .
+drwxr-xr-x  7 thomas  staff   238 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  9072 Jan 22 10:19 Atom
 
 ./Contents/Resources:
 total 416
-drwxr-xr-x@ 58 thomas  staff    1972 Jan 20 14:31 .
-drwxr-xr-x@  7 thomas  staff     238 Jan 20 14:31 ..
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 am.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ar.lproj
-drwxr-xr-x@  5 thomas  staff     170 Jan 20 14:31 atom
--rw-r--r--@  1 thomas  staff  209208 Jan 20 14:31 atom.icns
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 bg.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 bn.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ca.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 cs.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 da.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 de.lproj
-drwxr-xr-x@  6 thomas  staff     204 Jan 19 17:03 default_app
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 el.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 en.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 en_GB.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 es.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 es_419.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 et.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 fa.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 fi.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 fil.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 fr.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 gu.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 he.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 hi.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 hr.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 hu.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 id.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 it.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ja.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 kn.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ko.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 lt.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 lv.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ml.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 mr.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ms.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 nb.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 nl.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 pl.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 pt_BR.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 pt_PT.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ro.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ru.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 sk.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 sl.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 sr.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 sv.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 sw.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 ta.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 te.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 th.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 tr.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 uk.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 vi.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 zh_CN.lproj
-drwxr-xr-x@  2 thomas  staff      68 Jan 20 14:31 zh_TW.lproj
+drwxr-xr-x  58 thomas  staff    1972 Jan 22 10:19 .
+drwxr-xr-x   7 thomas  staff     238 Jan 22 10:19 ..
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 am.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ar.lproj
+drwxr-xr-x   5 thomas  staff     170 Jan 22 10:19 atom
+-rw-r--r--   1 thomas  staff  209208 Jan 22 10:19 atom.icns
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 bg.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 bn.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ca.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 cs.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 da.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 de.lproj
+drwxr-xr-x   6 thomas  staff     204 Jan 22 10:19 default_app
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 el.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 en.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 en_GB.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 es.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 es_419.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 et.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 fa.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 fi.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 fil.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 fr.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 gu.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 he.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 hi.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 hr.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 hu.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 id.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 it.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ja.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 kn.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ko.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 lt.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 lv.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ml.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 mr.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ms.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 nb.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 nl.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 pl.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 pt_BR.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 pt_PT.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ro.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ru.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 sk.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 sl.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 sr.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 sv.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 sw.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 ta.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 te.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 th.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 tr.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 uk.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 vi.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 zh_CN.lproj
+drwxr-xr-x   2 thomas  staff      68 Jan 22 10:19 zh_TW.lproj
 
 ./Contents/Resources/am.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ar.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/atom:
 total 0
-drwxr-xr-x@  5 thomas  staff   170 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
-drwxr-xr-x@  4 thomas  staff   136 Jan 20 14:31 browser
-drwxr-xr-x@  4 thomas  staff   136 Jan 20 14:31 common
-drwxr-xr-x@  4 thomas  staff   136 Jan 20 14:31 renderer
+drwxr-xr-x   5 thomas  staff   170 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
+drwxr-xr-x   4 thomas  staff   136 Jan 22 10:19 browser
+drwxr-xr-x   4 thomas  staff   136 Jan 22 10:19 common
+drwxr-xr-x   4 thomas  staff   136 Jan 22 10:19 renderer
 
 ./Contents/Resources/atom/browser:
 total 0
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 ..
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 api
-drwxr-xr-x@ 8 thomas  staff  272 Jan 20 14:31 lib
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 ..
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 api
+drwxr-xr-x  8 thomas  staff  272 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/browser/api:
 total 0
-drwxr-xr-x@  3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@  4 thomas  staff  136 Jan 20 14:31 ..
-drwxr-xr-x@ 17 thomas  staff  578 Jan 20 14:31 lib
+drwxr-xr-x   3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x   4 thomas  staff  136 Jan 22 10:19 ..
+drwxr-xr-x  17 thomas  staff  578 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/browser/api/lib:
 total 144
-drwxr-xr-x@ 17 thomas  staff   578 Jan 20 14:31 .
-drwxr-xr-x@  3 thomas  staff   102 Jan 20 14:31 ..
--rw-r--r--@  1 thomas  staff  1415 Jan 20 14:31 app.js
--rw-r--r--@  1 thomas  staff   267 Jan 20 14:31 atom-delegate.js
--rw-r--r--@  1 thomas  staff  1285 Jan 20 14:31 auto-updater.js
--rw-r--r--@  1 thomas  staff  6243 Jan 20 14:31 browser-window.js
--rw-r--r--@  1 thomas  staff   299 Jan 20 14:31 content-tracing.js
--rw-r--r--@  1 thomas  staff  5061 Jan 20 14:31 dialog.js
--rw-r--r--@  1 thomas  staff   232 Jan 20 14:31 global-shortcut.js
--rw-r--r--@  1 thomas  staff   173 Jan 20 14:31 ipc.js
--rw-r--r--@  1 thomas  staff  2709 Jan 20 14:31 menu-item.js
--rw-r--r--@  1 thomas  staff  7608 Jan 20 14:31 menu.js
--rw-r--r--@  1 thomas  staff   304 Jan 20 14:31 power-monitor.js
--rw-r--r--@  1 thomas  staff  1163 Jan 20 14:31 protocol.js
--rw-r--r--@  1 thomas  staff   267 Jan 20 14:31 screen.js
--rw-r--r--@  1 thomas  staff   417 Jan 20 14:31 tray.js
--rw-r--r--@  1 thomas  staff  3601 Jan 20 14:31 web-contents.js
+drwxr-xr-x  17 thomas  staff   578 Jan 22 10:19 .
+drwxr-xr-x   3 thomas  staff   102 Jan 22 10:19 ..
+-rw-r--r--   1 thomas  staff  1415 Jan 22 10:19 app.js
+-rw-r--r--   1 thomas  staff   267 Jan 22 10:19 atom-delegate.js
+-rw-r--r--   1 thomas  staff  1285 Jan 22 10:19 auto-updater.js
+-rw-r--r--   1 thomas  staff  6243 Jan 22 10:19 browser-window.js
+-rw-r--r--   1 thomas  staff   299 Jan 22 10:19 content-tracing.js
+-rw-r--r--   1 thomas  staff  5061 Jan 22 10:19 dialog.js
+-rw-r--r--   1 thomas  staff   232 Jan 22 10:19 global-shortcut.js
+-rw-r--r--   1 thomas  staff   173 Jan 22 10:19 ipc.js
+-rw-r--r--   1 thomas  staff  2709 Jan 22 10:19 menu-item.js
+-rw-r--r--   1 thomas  staff  7608 Jan 22 10:19 menu.js
+-rw-r--r--   1 thomas  staff   304 Jan 22 10:19 power-monitor.js
+-rw-r--r--   1 thomas  staff  1163 Jan 22 10:19 protocol.js
+-rw-r--r--   1 thomas  staff   267 Jan 22 10:19 screen.js
+-rw-r--r--   1 thomas  staff   417 Jan 22 10:19 tray.js
+-rw-r--r--   1 thomas  staff  3601 Jan 22 10:19 web-contents.js
 
 ./Contents/Resources/atom/browser/lib:
 total 64
-drwxr-xr-x@ 8 thomas  staff   272 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff   136 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  4080 Jan 20 14:31 chrome-extension.js
--rw-r--r--@ 1 thomas  staff  6365 Jan 20 14:31 guest-view-manager.js
--rw-r--r--@ 1 thomas  staff  2776 Jan 20 14:31 guest-window-manager.js
--rw-r--r--@ 1 thomas  staff  3403 Jan 20 14:31 init.js
--rw-r--r--@ 1 thomas  staff  3007 Jan 20 14:31 objects-registry.js
--rw-r--r--@ 1 thomas  staff  7746 Jan 20 14:31 rpc-server.js
+drwxr-xr-x  8 thomas  staff   272 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff   136 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  4080 Jan 22 10:19 chrome-extension.js
+-rw-r--r--  1 thomas  staff  6365 Jan 22 10:19 guest-view-manager.js
+-rw-r--r--  1 thomas  staff  2776 Jan 22 10:19 guest-window-manager.js
+-rw-r--r--  1 thomas  staff  3403 Jan 22 10:19 init.js
+-rw-r--r--  1 thomas  staff  3007 Jan 22 10:19 objects-registry.js
+-rw-r--r--  1 thomas  staff  7746 Jan 22 10:19 rpc-server.js
 
 ./Contents/Resources/atom/common:
 total 0
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 ..
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 api
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 lib
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 ..
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 api
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/common/api:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 ..
-drwxr-xr-x@ 8 thomas  staff  272 Jan 20 14:31 lib
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 ..
+drwxr-xr-x  8 thomas  staff  272 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/common/api/lib:
 total 48
-drwxr-xr-x@ 8 thomas  staff   272 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  1517 Jan 20 14:31 callbacks-registry.js
--rw-r--r--@ 1 thomas  staff  1070 Jan 20 14:31 clipboard.js
--rw-r--r--@ 1 thomas  staff  3013 Jan 20 14:31 crash-reporter.js
--rw-r--r--@ 1 thomas  staff   174 Jan 20 14:31 id-weak-map.js
--rw-r--r--@ 1 thomas  staff   329 Jan 20 14:31 original-fs.js
--rw-r--r--@ 1 thomas  staff   291 Jan 20 14:31 shell.js
+drwxr-xr-x  8 thomas  staff   272 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  1517 Jan 22 10:19 callbacks-registry.js
+-rw-r--r--  1 thomas  staff  1070 Jan 22 10:19 clipboard.js
+-rw-r--r--  1 thomas  staff  3013 Jan 22 10:19 crash-reporter.js
+-rw-r--r--  1 thomas  staff   174 Jan 22 10:19 id-weak-map.js
+-rw-r--r--  1 thomas  staff   329 Jan 22 10:19 original-fs.js
+-rw-r--r--  1 thomas  staff   291 Jan 22 10:19 shell.js
 
 ./Contents/Resources/atom/common/lib:
 total 40
-drwxr-xr-x@ 4 thomas  staff    136 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff    136 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  13117 Jan 20 14:31 asar.js
--rw-r--r--@ 1 thomas  staff   1210 Jan 20 14:31 init.js
+drwxr-xr-x  4 thomas  staff    136 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff    136 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  13117 Jan 22 10:19 asar.js
+-rw-r--r--  1 thomas  staff   1210 Jan 22 10:19 init.js
 
 ./Contents/Resources/atom/renderer:
 total 0
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 .
-drwxr-xr-x@ 5 thomas  staff  170 Jan 20 14:31 ..
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 api
-drwxr-xr-x@ 7 thomas  staff  238 Jan 20 14:31 lib
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 .
+drwxr-xr-x  5 thomas  staff  170 Jan 22 10:19 ..
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 api
+drwxr-xr-x  7 thomas  staff  238 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/renderer/api:
 total 0
-drwxr-xr-x@ 3 thomas  staff  102 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff  136 Jan 20 14:31 ..
-drwxr-xr-x@ 6 thomas  staff  204 Jan 20 14:31 lib
+drwxr-xr-x  3 thomas  staff  102 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff  136 Jan 22 10:19 ..
+drwxr-xr-x  6 thomas  staff  204 Jan 22 10:19 lib
 
 ./Contents/Resources/atom/renderer/api/lib:
 total 40
-drwxr-xr-x@ 6 thomas  staff   204 Jan 20 14:31 .
-drwxr-xr-x@ 3 thomas  staff   102 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff  1933 Jan 20 14:31 ipc.js
--rw-r--r--@ 1 thomas  staff  6040 Jan 20 14:31 remote.js
--rw-r--r--@ 1 thomas  staff   121 Jan 20 14:31 screen.js
--rw-r--r--@ 1 thomas  staff   127 Jan 20 14:31 web-frame.js
+drwxr-xr-x  6 thomas  staff   204 Jan 22 10:19 .
+drwxr-xr-x  3 thomas  staff   102 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff  1933 Jan 22 10:19 ipc.js
+-rw-r--r--  1 thomas  staff  6040 Jan 22 10:19 remote.js
+-rw-r--r--  1 thomas  staff   121 Jan 22 10:19 screen.js
+-rw-r--r--  1 thomas  staff   127 Jan 22 10:19 web-frame.js
 
 ./Contents/Resources/atom/renderer/lib:
 total 32
-drwxr-xr-x@ 7 thomas  staff   238 Jan 20 14:31 .
-drwxr-xr-x@ 4 thomas  staff   136 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff   378 Jan 20 14:31 chrome-api.js
--rw-r--r--@ 1 thomas  staff  3227 Jan 20 14:31 init.js
--rw-r--r--@ 1 thomas  staff  2475 Jan 20 14:31 inspector.js
--rw-r--r--@ 1 thomas  staff  2980 Jan 20 14:31 override.js
-drwxr-xr-x@ 6 thomas  staff   204 Jan 20 14:31 web-view
+drwxr-xr-x  7 thomas  staff   238 Jan 22 10:19 .
+drwxr-xr-x  4 thomas  staff   136 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   378 Jan 22 10:19 chrome-api.js
+-rw-r--r--  1 thomas  staff  3227 Jan 22 10:19 init.js
+-rw-r--r--  1 thomas  staff  2475 Jan 22 10:19 inspector.js
+-rw-r--r--  1 thomas  staff  2980 Jan 22 10:19 override.js
+drwxr-xr-x  6 thomas  staff   204 Jan 22 10:19 web-view
 
 ./Contents/Resources/atom/renderer/lib/web-view:
 total 64
-drwxr-xr-x@ 6 thomas  staff    204 Jan 20 14:31 .
-drwxr-xr-x@ 7 thomas  staff    238 Jan 20 14:31 ..
--rw-r--r--@ 1 thomas  staff   3522 Jan 20 14:31 guest-view-internal.js
--rw-r--r--@ 1 thomas  staff  11130 Jan 20 14:31 web-view-attributes.js
--rw-r--r--@ 1 thomas  staff   1110 Jan 20 14:31 web-view-constants.js
--rw-r--r--@ 1 thomas  staff  11495 Jan 20 14:31 web-view.js
+drwxr-xr-x  6 thomas  staff    204 Jan 22 10:19 .
+drwxr-xr-x  7 thomas  staff    238 Jan 22 10:19 ..
+-rw-r--r--  1 thomas  staff   3522 Jan 22 10:19 guest-view-internal.js
+-rw-r--r--  1 thomas  staff  11130 Jan 22 10:19 web-view-attributes.js
+-rw-r--r--  1 thomas  staff   1110 Jan 22 10:19 web-view-constants.js
+-rw-r--r--  1 thomas  staff  11495 Jan 22 10:19 web-view.js
 
 ./Contents/Resources/bg.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/bn.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ca.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/cs.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/da.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/de.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/default_app:
 total 40
-drwxr-xr-x@  6 thomas  staff   204 Jan 19 17:03 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
--rw-r--r--@  1 thomas  staff  4465 Dec  3 18:15 default_app.js
--rw-r--r--@  1 thomas  staff  2796 Dec  3 18:15 index.html
--rw-r--r--@  1 thomas  staff  2148 Jan 19 17:03 main.js
--rw-r--r--@  1 thomas  staff   125 Dec  3 18:15 package.json
+drwxr-xr-x   6 thomas  staff   204 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
+-rw-r--r--   1 thomas  staff  4465 Jan 22 10:19 default_app.js
+-rw-r--r--   1 thomas  staff  2796 Jan 22 10:19 index.html
+-rw-r--r--   1 thomas  staff  2148 Jan 22 10:19 main.js
+-rw-r--r--   1 thomas  staff   125 Jan 22 10:19 package.json
 
 ./Contents/Resources/el.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/en.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/en_GB.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/es.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/es_419.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/et.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/fa.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/fi.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/fil.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/fr.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/gu.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/he.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/hi.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/hr.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/hu.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/id.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/it.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ja.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/kn.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ko.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/lt.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/lv.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ml.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/mr.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ms.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/nb.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/nl.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/pl.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/pt_BR.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/pt_PT.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ro.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ru.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/sk.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/sl.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/sr.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/sv.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/sw.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/ta.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/te.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/th.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/tr.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/uk.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/vi.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/zh_CN.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
 
 ./Contents/Resources/zh_TW.lproj:
 total 0
-drwxr-xr-x@  2 thomas  staff    68 Jan 20 14:31 .
-drwxr-xr-x@ 58 thomas  staff  1972 Jan 20 14:31 ..
+drwxr-xr-x   2 thomas  staff    68 Jan 22 10:19 .
+drwxr-xr-x  58 thomas  staff  1972 Jan 22 10:19 ..
